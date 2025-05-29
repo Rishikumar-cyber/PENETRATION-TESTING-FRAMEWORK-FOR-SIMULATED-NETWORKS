@@ -21,7 +21,7 @@ This project is a **Penetration Testing Framework** designed for simulated netwo
 - ### Setup Instructions
 - 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/penetration-testing-framework.git
+   git clone https://github.com/Rishikumar-cyber/penetration-testing-framework.git
    cd penetration-testing-framework
 ```
                         
