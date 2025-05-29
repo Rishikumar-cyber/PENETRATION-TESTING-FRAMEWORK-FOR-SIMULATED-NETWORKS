@@ -43,13 +43,13 @@ This project is a *Penetration Testing Framework* designed for simulated network
 ## Screenshots
 
 ### Exploit Interface
-![Exploit Interface](screenshots/exploit_interface.png)
+![Image](https://github.com/user-attachments/assets/44ab61a1-7fb8-4e33-b093-bbace7e286a0))
 
 ### Nmap Scanning Result
-![Nmap Output](screenshots/nmap_result.png)
+![Image](https://github.com/user-attachments/assets/b38caf2f-b0ae-4704-a9e4-3c71f74de202)
 
 ### Final Project Report (UI Preview)
-![Report Screenshot](screenshots/final_report_ui.png)
+![Image](https://github.com/user-attachments/assets/30a99f40-f3e6-4c7f-83fa-3bd67a3a02cb)
 
 
 
