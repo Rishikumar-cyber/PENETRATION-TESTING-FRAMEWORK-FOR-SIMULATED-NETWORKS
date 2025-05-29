@@ -25,7 +25,7 @@ This project is a *Penetration Testing Framework* designed for simulated network
    cd penetration-testing-framework
    ```
 2. Install dependencies:
-  ``` bash
+   ``` bash
    pip install -r requirements.txt
    ```
 3. Run the Streamlit app:
