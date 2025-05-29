@@ -48,7 +48,7 @@ This project is a *Penetration Testing Framework* designed for simulated network
 ![Image](https://github.com/user-attachments/assets/7926af55-496e-487e-ba6f-ba0d06374424)
 
 ### Final Project Report (UI Preview)
-![Report Screenshot](screenshots/final_report_ui.png)
+![Image](https://github.com/user-attachments/assets/7926af55-496e-487e-ba6f-ba0d06374424)
 
 
 
